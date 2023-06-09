@@ -1,0 +1,5 @@
+Target dependency graph (3 targets)
+Pods-CalculatorUIKIT in Pods, no dependencies
+Pods-CalculatorUIKIT-CalculatorUIKITUITests in Pods, no dependencies
+Pods-CalculatorUIKITTests in Pods, depends on:
+Pods-CalculatorUIKIT in Pods (explicit)

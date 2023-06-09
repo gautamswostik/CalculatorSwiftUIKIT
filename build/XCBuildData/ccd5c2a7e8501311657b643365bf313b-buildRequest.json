@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987b62dd16ebf3c4a5b32931eac3e9f9eb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9877a49bfaa70b849fd9564e2635e26403"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9831774a76103be5d6524ef653d5df7c60"
+    }
+  ],
+  "containerPath" : "/Users/swostikgautam/Documents/ios/CalculatorUIKIT/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/swostikgautam/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/swostikgautam/Library/Developer/Xcode/DerivedData/Pods-gcpfrcwtvxphvobhigoowvzgrbha/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/swostikgautam/Library/Developer/Xcode/DerivedData/Pods-gcpfrcwtvxphvobhigoowvzgrbha/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
